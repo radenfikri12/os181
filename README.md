@@ -10,3 +10,5 @@ ZCZC W03 Have tried
 ZCZC W04 Done
 
 ZCZC W05 Done
+
+ZCZC W06 sudah dicoba
